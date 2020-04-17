@@ -1,1 +1,1 @@
-We need to pick 5 random guys in an array of 376 and deliver a fake message on tweeter
+This this a little piece of code that uses nokogiri, so it goes to the website of coinmaster, which picks the devise and the price. 
